@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Bione</h1>
-<h3 align="center">PhD.student in Ecology and Evolution | Data Scientist | Data analyst</h3>
+<h3 align="center">PhD in Ecology and Evolution | Data Scientist | Data analyst</h3>
 
-- 🔭 I’m currently working on **the development of machine learning models**
+- 🔭 I’m currently working as a Data Scientist at **WAM Group** 
 
 - 🌱 I’m currently learning **SQL, Python frameworks for data science and business intelligence**
 
