@@ -18,7 +18,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorbione&show_icons=true&locale=en&layout=compact" alt="igorbione" /></p>
 
 <!---
 igorbione/igorbione is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
