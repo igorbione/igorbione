@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Bione</h1>
-<h3 align="center">PhD in Ecology and Evolution | Data Scientist | Data analyst</h3>
+<h3 align="center">PhD | Data Scientist | Data analyst</h3>
 
 - 🔭 I’m a Data Scientist at **WAM Group** 
 
