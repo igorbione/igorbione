@@ -1,26 +1,83 @@
-<h1 align="center">Hi 👋, I'm Igor Bione</h1>
-<h3 align="center">PhD | Data Scientist | Data analyst</h3>
+<div align="center">
 
-- 🔭 I’m a Data Scientist at **WAM Group** 
+# Igor Bione
 
-- 🌱 I’m currently learning **LLM**,**AI engineering** and **Automatization techniques**
+**PhD · Data Scientist · AI Engineer**
 
-- 🎯 I’m looking to collaborate on **data science problems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igorbione-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorbione)
+[![Email](https://img.shields.io/badge/Email-igorbione@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:igorbione@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=igorbione&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/igorbione)
 
-- 💬 Ask me about **Data analysis, Data visualization, Bussiness problem, Scientific writing**
+</div>
 
-- 📫 How to reach me **igorbione@hotmail.com**
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorbione&label=Profile%20views&color=0e75b6&style=flat" alt="igorbione" /> </p>
+## About me
 
+I'm a Data Scientist at **WAM Group** with a PhD background, working at the intersection of data analysis, machine learning, and business intelligence. I'm passionate about turning complex data into actionable insights and building robust analytical pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/igorbione" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorbione" height="30" width="40" /></a>
-</p>
+Currently deepening my knowledge in **LLM applications**, **AI engineering**, and **automation** — with a focus on bringing those tools into real-world business contexts.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## What I do
+
+- **Data Science & ML** — predictive modeling, statistical analysis, and scalable pipelines
+- **Data Analysis & Visualization** — translating data into clear narratives for business decisions
+- **Scientific Writing** — bridging academic rigor and practical application
+- **Business Intelligence** — problem framing, hypothesis testing, and insight delivery
+
+---
+
+## Tech stack
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Infrastructure & Automation**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=igorbione&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=374151&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbione&layout=compact&hide_border=true&title_color=6366f1&text_color=374151&bg_color=ffffff" />
+
+</div>
+
+---
+
+## Let's connect
+
+I'm always open to collaborating on **data science problems**, research, or projects where data can create real impact. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorbione)
+
+</div>
 
 
 
