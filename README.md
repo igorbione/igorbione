@@ -58,17 +58,6 @@ Currently deepening my knowledge in **LLM applications**, **AI engineering**, an
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=igorbione&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=374151&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbione&layout=compact&hide_border=true&title_color=6366f1&text_color=374151&bg_color=ffffff" />
-
-</div>
-
----
-
 ## Let's connect
 
 I'm always open to collaborating on **data science problems**, research, or projects where data can create real impact. Feel free to reach out!
